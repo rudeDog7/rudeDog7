@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rudeDog7
-- 👀 I’m interested in finding an entry-level Android or Kotlin Development position.
+- 👀 I’m interested in finding an entry-level Android Developer, or Kotlin Developer, position.
 - 🌱 I’m currently learning Android Development using Kotlin.
 - 📫 How to reach me: jamesfdavis7@gmail.com ...
 
